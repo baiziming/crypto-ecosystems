@@ -1,0 +1,6 @@
+ fluence init hello-fluence
+? Select template (Use arrow keys)
+❯ quickstart
+  minimal
+  ts
+  js
